@@ -1,3 +1,5 @@
+### ** 리스트 두 개가 아니라 딕셔너리로 하면 조금 더 수월하고 가독성 좋았음... 아쉽구롱
+
 # [level 1] 숫자 문자열과 영단어 - 81301 
 
 [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/81301) 
